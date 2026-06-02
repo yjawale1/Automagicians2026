@@ -1,0 +1,201 @@
+Account_ID,Customer_Name,Account_Type,Balance_USD,Created_Date,Status
+ACC100001,Michael Martinez,Money Market,21321.2,2022-01-16,Suspended
+ACC100002,Michael Brown,Money Market,20325.24,2021-05-25,Closed
+ACC100003,John Garcia,Savings,5000.82,2021-09-28,Suspended
+ACC100004,Olivia Johnson,Certificate of Deposit,21138.61,2022-12-27,Active
+ACC100005,Emily Davis,Money Market,10007.97,2020-12-11,Active
+ACC100006,Robert Garcia,Certificate of Deposit,17913.36,2022-01-17,Active
+ACC100007,Emily Johnson,Money Market,11909.64,2022-09-01,Active
+ACC100008,Robert Miller,Savings,4914.77,2020-08-07,Active
+ACC100009,James Garcia,Money Market,1143.15,2023-04-23,Closed
+ACC100010,Robert Miller,Certificate of Deposit,4957.45,2022-10-24,Active
+ACC100011,Olivia Rodriguez,Certificate of Deposit,3902.47,2021-07-11,Active
+ACC100012,Jane Smith,Checking,14647.33,2020-04-15,Suspended
+ACC100013,Michael Miller,Checking,22071.86,2021-12-30,Active
+ACC100014,Sophia Smith,Money Market,15276.25,2020-05-21,Active
+ACC100015,James Martinez,Savings,5572.97,2021-10-25,Active
+ACC100016,Michael Jones,Savings,4921.15,2022-11-04,Closed
+ACC100017,Robert Davis,Money Market,22399.29,2020-08-15,Active
+ACC100018,Olivia Davis,Checking,9040.41,2022-09-08,Active
+ACC100019,James Williams,Certificate of Deposit,14780.8,2021-05-09,Active
+ACC100020,Olivia Johnson,Certificate of Deposit,15651.35,2020-12-14,Active
+ACC100021,Sarah Miller,Checking,22901.82,2020-09-09,Closed
+ACC100022,David Jones,Savings,6982.64,2021-09-18,Active
+ACC100023,John Garcia,Savings,20831.52,2022-05-02,Active
+ACC100024,John Jones,Money Market,4596.62,2023-07-02,Active
+ACC100025,John Martinez,Money Market,22101.2,2020-12-12,Active
+ACC100026,Michael Williams,Savings,4342.69,2021-06-09,Active
+ACC100027,Jane Jones,Checking,2254.74,2022-05-31,Active
+ACC100028,Michael Williams,Money Market,18823.91,2020-09-18,Suspended
+ACC100029,Sophia Brown,Savings,11548.2,2022-01-22,Suspended
+ACC100030,Sophia Miller,Money Market,12320.6,2020-03-21,Active
+ACC100031,Jane Davis,Money Market,20825.91,2021-03-11,Suspended
+ACC100032,Jane Rodriguez,Certificate of Deposit,11948.44,2022-05-16,Active
+ACC100033,Sophia Brown,Certificate of Deposit,1122.28,2020-06-04,Suspended
+ACC100034,James Williams,Money Market,7356.09,2021-12-23,Closed
+ACC100035,Michael Davis,Money Market,17165.82,2022-08-02,Active
+ACC100036,Sarah Garcia,Money Market,17812.48,2021-08-17,Active
+ACC100037,Olivia Jones,Checking,23829.37,2020-02-20,Active
+ACC100038,Robert Johnson,Savings,2999.13,2023-08-04,Suspended
+ACC100039,Sarah Brown,Checking,12657.47,2023-05-15,Active
+ACC100040,John Rodriguez,Savings,23323.32,2021-07-12,Suspended
+ACC100041,Olivia Miller,Checking,20819.97,2021-11-10,Closed
+ACC100042,Emily Rodriguez,Savings,22929.49,2021-12-17,Active
+ACC100043,Emily Martinez,Checking,18530.52,2020-07-02,Active
+ACC100044,Sophia Miller,Money Market,5634.3,2020-01-11,Active
+ACC100045,John Miller,Checking,16786.76,2020-07-24,Active
+ACC100046,Olivia Davis,Certificate of Deposit,14118.76,2021-06-06,Active
+ACC100047,Emily Martinez,Money Market,7554.5,2022-07-07,Active
+ACC100048,Jane Smith,Money Market,18277.13,2022-06-11,Closed
+ACC100049,David Rodriguez,Checking,7704.06,2023-02-05,Suspended
+ACC100050,Olivia Davis,Savings,9171.06,2021-04-13,Active
+ACC100051,Robert Davis,Certificate of Deposit,18582.11,2022-07-24,Active
+ACC100052,Jane Smith,Savings,14779.29,2021-06-09,Active
+ACC100053,James Williams,Money Market,22275.51,2021-01-31,Active
+ACC100054,Sarah Martinez,Savings,3655.31,2020-06-27,Suspended
+ACC100055,John Martinez,Checking,457.79,2021-01-16,Active
+ACC100056,James Miller,Checking,13255.03,2020-11-01,Active
+ACC100057,Emily Garcia,Savings,9201.79,2021-04-28,Active
+ACC100058,Robert Martinez,Checking,16654.77,2022-08-16,Active
+ACC100059,Olivia Smith,Savings,6437.49,2023-03-11,Active
+ACC100060,Michael Rodriguez,Certificate of Deposit,11982.98,2020-08-22,Active
+ACC100061,Jane Brown,Money Market,22054.8,2023-01-17,Active
+ACC100062,Michael Garcia,Certificate of Deposit,16461.94,2020-08-10,Active
+ACC100063,James Smith,Checking,4072.02,2020-07-07,Active
+ACC100064,Jane Jones,Certificate of Deposit,15391.68,2020-11-18,Suspended
+ACC100065,David Miller,Savings,11578.51,2020-02-13,Closed
+ACC100066,Michael Williams,Savings,21178.05,2021-01-04,Active
+ACC100067,John Martinez,Certificate of Deposit,7652.18,2023-06-10,Active
+ACC100068,Emily Miller,Certificate of Deposit,3118.68,2023-11-14,Active
+ACC100069,Sophia Miller,Checking,8577.06,2022-01-24,Closed
+ACC100070,James Williams,Savings,10519.63,2021-11-02,Closed
+ACC100071,Sophia Garcia,Checking,20158.22,2022-11-09,Closed
+ACC100072,David Williams,Checking,122.8,2022-10-01,Active
+ACC100073,Michael Williams,Savings,6777.6,2020-09-05,Active
+ACC100074,Robert Miller,Money Market,18320.82,2022-11-01,Closed
+ACC100075,Olivia Brown,Money Market,1263.16,2020-02-08,Active
+ACC100076,Michael Brown,Certificate of Deposit,6567.64,2022-10-06,Active
+ACC100077,Robert Johnson,Checking,12051.61,2021-06-17,Suspended
+ACC100078,James Johnson,Checking,3272.42,2021-10-09,Closed
+ACC100079,John Garcia,Certificate of Deposit,11231.7,2022-06-02,Active
+ACC100080,David Davis,Certificate of Deposit,8710.12,2023-05-15,Active
+ACC100081,John Davis,Certificate of Deposit,21146.66,2023-07-24,Active
+ACC100082,Sarah Miller,Checking,10091.51,2023-08-05,Active
+ACC100083,James Davis,Certificate of Deposit,7667.34,2021-08-07,Active
+ACC100084,John Martinez,Savings,7025.21,2020-03-18,Active
+ACC100085,Sophia Williams,Checking,11050.38,2023-07-22,Active
+ACC100086,Sarah Brown,Checking,4772.54,2021-09-08,Closed
+ACC100087,Robert Johnson,Savings,4889.4,2022-01-27,Suspended
+ACC100088,Emily Johnson,Money Market,20947.88,2022-01-05,Closed
+ACC100089,Jane Miller,Checking,15906.2,2020-04-27,Suspended
+ACC100090,Olivia Brown,Savings,21297.87,2022-05-07,Active
+ACC100091,Emily Garcia,Certificate of Deposit,8109.8,2020-12-04,Active
+ACC100092,Jane Davis,Savings,9365.1,2021-02-05,Active
+ACC100093,Sarah Jones,Money Market,13195.84,2024-01-04,Active
+ACC100094,John Jones,Certificate of Deposit,5886.63,2022-11-12,Active
+ACC100095,Emily Miller,Money Market,17445.93,2020-09-04,Closed
+ACC100096,Michael Williams,Certificate of Deposit,1473.15,2021-03-11,Active
+ACC100097,David Johnson,Certificate of Deposit,3015.76,2022-02-15,Active
+ACC100098,Olivia Johnson,Certificate of Deposit,11829.41,2020-06-29,Active
+ACC100099,Sophia Martinez,Savings,10490.4,2023-09-09,Active
+ACC100100,Jane Smith,Checking,2008.51,2023-02-05,Suspended
+ACC100101,Sophia Jones,Savings,21385.74,2022-11-16,Suspended
+ACC100102,Sophia Miller,Money Market,20038.43,2020-03-26,Active
+ACC100103,David Garcia,Savings,1326.65,2021-02-14,Active
+ACC100104,Jane Johnson,Certificate of Deposit,5959.61,2021-09-20,Active
+ACC100105,Michael Garcia,Money Market,17699.74,2022-11-08,Active
+ACC100106,Michael Davis,Money Market,14453.49,2020-05-08,Active
+ACC100107,Jane Martinez,Certificate of Deposit,24222.06,2022-04-13,Active
+ACC100108,Michael Martinez,Checking,24251.85,2023-04-14,Active
+ACC100109,John Johnson,Money Market,4594.63,2024-01-18,Active
+ACC100110,Sarah Brown,Savings,2854.4,2023-06-30,Active
+ACC100111,Emily Rodriguez,Savings,18172.57,2023-11-10,Closed
+ACC100112,James Williams,Money Market,14907.09,2022-09-19,Closed
+ACC100113,Robert Johnson,Money Market,7749.37,2022-01-08,Active
+ACC100114,Sophia Brown,Checking,1980.99,2020-07-21,Suspended
+ACC100115,Sarah Rodriguez,Checking,7998.9,2023-05-05,Active
+ACC100116,Olivia Miller,Money Market,2149.97,2023-02-04,Closed
+ACC100117,Emily Jones,Money Market,2597.22,2021-07-01,Closed
+ACC100118,Robert Davis,Checking,8084.92,2023-01-30,Suspended
+ACC100119,Robert Brown,Savings,5254.54,2023-02-01,Active
+ACC100120,Emily Garcia,Certificate of Deposit,10089.45,2020-05-30,Active
+ACC100121,Michael Jones,Savings,17361.92,2023-10-24,Suspended
+ACC100122,Sarah Smith,Certificate of Deposit,19967.75,2022-07-01,Active
+ACC100123,Olivia Jones,Checking,7072.25,2022-03-27,Suspended
+ACC100124,Emily Brown,Certificate of Deposit,9986.86,2022-01-08,Active
+ACC100125,Sarah Smith,Savings,22019.1,2022-11-05,Active
+ACC100126,Robert Davis,Savings,21959.83,2021-09-10,Active
+ACC100127,Olivia Williams,Checking,12424.71,2022-05-27,Suspended
+ACC100128,Emily Brown,Savings,23885.31,2021-05-09,Active
+ACC100129,James Martinez,Certificate of Deposit,2541.67,2021-09-29,Active
+ACC100130,Sarah Johnson,Checking,1617.77,2023-10-20,Active
+ACC100131,Jane Jones,Money Market,17305.51,2021-03-26,Active
+ACC100132,Michael Johnson,Checking,11718.64,2021-01-01,Active
+ACC100133,Emily Garcia,Certificate of Deposit,311.09,2022-03-01,Suspended
+ACC100134,Jane Smith,Money Market,15594.55,2020-01-19,Closed
+ACC100135,Jane Johnson,Certificate of Deposit,14998.36,2020-04-18,Active
+ACC100136,Sophia Miller,Certificate of Deposit,18730.49,2021-03-12,Active
+ACC100137,Emily Martinez,Money Market,21247.72,2022-05-05,Active
+ACC100138,Emily Smith,Certificate of Deposit,24157.51,2022-05-09,Suspended
+ACC100139,Sarah Brown,Checking,3920.88,2020-10-28,Closed
+ACC100140,Robert Rodriguez,Checking,4425.7,2022-04-03,Active
+ACC100141,Sophia Garcia,Certificate of Deposit,6698.97,2021-01-19,Active
+ACC100142,Michael Rodriguez,Savings,11650.74,2021-04-27,Active
+ACC100143,Emily Davis,Checking,520.7,2021-06-10,Active
+ACC100144,Jane Garcia,Checking,6970.42,2020-02-29,Closed
+ACC100145,John Miller,Certificate of Deposit,1395.75,2022-02-27,Active
+ACC100146,Emily Davis,Certificate of Deposit,21881.9,2023-08-26,Active
+ACC100147,Emily Brown,Savings,2088.99,2020-02-26,Suspended
+ACC100148,John Brown,Certificate of Deposit,9519.07,2021-11-26,Active
+ACC100149,John Smith,Certificate of Deposit,20440.0,2023-01-08,Active
+ACC100150,Jane Miller,Certificate of Deposit,4977.51,2021-07-12,Active
+ACC100151,Sarah Rodriguez,Certificate of Deposit,3678.14,2023-07-26,Active
+ACC100152,Sarah Jones,Savings,421.44,2020-12-13,Active
+ACC100153,David Davis,Savings,11840.91,2022-06-19,Suspended
+ACC100154,John Miller,Checking,12961.91,2024-01-01,Closed
+ACC100155,Jane Williams,Savings,19935.33,2022-10-28,Active
+ACC100156,Sarah Miller,Certificate of Deposit,17846.95,2020-12-17,Suspended
+ACC100157,Sarah Williams,Checking,5872.21,2023-01-06,Suspended
+ACC100158,Sarah Davis,Money Market,20017.97,2023-10-14,Active
+ACC100159,David Davis,Checking,1565.63,2023-05-15,Active
+ACC100160,Michael Smith,Money Market,17625.15,2020-05-24,Suspended
+ACC100161,Olivia Smith,Money Market,9141.61,2022-11-03,Active
+ACC100162,Sophia Brown,Money Market,22894.96,2023-04-14,Active
+ACC100163,Jane Garcia,Savings,20546.6,2021-11-08,Active
+ACC100164,Jane Williams,Money Market,13845.11,2021-03-31,Active
+ACC100165,Sarah Miller,Certificate of Deposit,4140.35,2021-05-07,Active
+ACC100166,Jane Brown,Checking,15424.82,2021-04-21,Closed
+ACC100167,Jane Williams,Savings,2182.25,2023-11-08,Active
+ACC100168,Emily Davis,Checking,12046.75,2022-08-28,Suspended
+ACC100169,John Davis,Savings,13646.01,2021-03-14,Active
+ACC100170,James Garcia,Certificate of Deposit,7255.13,2022-06-05,Active
+ACC100171,Sarah Williams,Savings,8851.04,2023-04-27,Active
+ACC100172,Olivia Smith,Savings,24506.33,2023-08-12,Closed
+ACC100173,Michael Johnson,Certificate of Deposit,11046.1,2020-08-19,Active
+ACC100174,James Rodriguez,Money Market,10272.61,2021-11-27,Active
+ACC100175,James Jones,Checking,4629.21,2020-11-30,Active
+ACC100176,Michael Jones,Checking,11351.01,2022-02-13,Active
+ACC100177,Emily Williams,Savings,15024.96,2024-01-16,Closed
+ACC100178,Sophia Jones,Checking,5875.28,2020-01-10,Active
+ACC100179,Olivia Martinez,Money Market,22138.78,2020-10-05,Active
+ACC100180,Michael Miller,Certificate of Deposit,12371.43,2023-04-07,Active
+ACC100181,Sophia Williams,Certificate of Deposit,18505.57,2021-09-08,Suspended
+ACC100182,Robert Brown,Money Market,8325.74,2021-03-15,Suspended
+ACC100183,Sarah Garcia,Checking,6538.79,2022-09-22,Active
+ACC100184,John Brown,Certificate of Deposit,18217.98,2022-05-28,Active
+ACC100185,Olivia Brown,Checking,15813.47,2021-01-10,Active
+ACC100186,James Williams,Money Market,16834.39,2023-02-06,Suspended
+ACC100187,Emily Johnson,Savings,17290.32,2022-01-17,Suspended
+ACC100188,Jane Davis,Money Market,10127.03,2020-05-17,Active
+ACC100189,Sarah Miller,Checking,17502.4,2023-05-24,Active
+ACC100190,Emily Johnson,Savings,4946.24,2023-05-01,Closed
+ACC100191,Robert Garcia,Money Market,10778.19,2021-08-06,Suspended
+ACC100192,Sophia Davis,Certificate of Deposit,17362.85,2022-03-22,Active
+ACC100193,David Davis,Money Market,14314.41,2020-11-14,Active
+ACC100194,Michael Williams,Certificate of Deposit,17731.16,2020-02-14,Suspended
+ACC100195,David Jones,Money Market,4180.12,2021-07-26,Closed
+ACC100196,Robert Garcia,Savings,19803.73,2020-02-19,Closed
+ACC100197,Jane Garcia,Money Market,14735.09,2022-11-30,Active
+ACC100198,Sophia Smith,Certificate of Deposit,1167.32,2023-09-21,Suspended
+ACC100199,Jane Miller,Certificate of Deposit,24686.92,2022-08-22,Active
+ACC100200,Robert Smith,Money Market,22854.78,2023-08-21,Active
