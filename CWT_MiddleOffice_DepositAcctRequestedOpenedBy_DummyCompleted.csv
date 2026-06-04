@@ -1,0 +1,143 @@
+AccountRequestKey,OnboardingRequestKey,Account Number,Account Name,LOB,User ID,User Email,User Short Name,User Display Name,RequestedDate,AccountSubtitle,CdwxAccountClosedDate,CdwxReopenDate,CdwxAccountOpenDate,HasExceptionLow,HasExceptionHigh
+80001,70001,1042837,Nexus Capital LLC,Private Wealth,W992009,ulysses.vega@cibc.com,ad\uvega,Ulysses Vega,5/1/2026,,,,3/1/2018,0,0
+80002,70002,2837491,Pinnacle Ventures LTD,Commercial Banking,W992001,michael.nash@cibc.com,ad\mnash,Michael Nash,5/2/2026,Operating,,,3/2/2018,0,0
+80003,70003,3920184,Horizon Dynamics INC,Commercial Real Estate,W992003,oscar.patel@cibc.com,ad\opatel,Oscar Patel,5/3/2026,,,,3/3/2018,1,0
+80004,70004,4817263,Sterling Solutions LLC,Commercial Banking,W992007,samuel.taylor@cibc.com,ad\staylor,Samuel Taylor,5/4/2026,Payroll,,,3/4/2018,0,0
+80005,70005,5293847,Apex Financial Group INC,Private Wealth,W992013,yolanda.zhang@cibc.com,ad\yzhang,Yolanda Zhang,5/5/2026,,,,3/5/2018,0,1
+80006,70006,6748291,BlueCrest Holdings LTD,Commercial Real Estate,W992018,derek.edwards@cibc.com,ad\dedwards,Derek Edwards,5/6/2026,,,,3/6/2018,0,0
+80007,70007,7391028,Ironclad Enterprises LLC,Commercial Banking,W992016,brian.clark@cibc.com,ad\bclark,Brian Clark,5/7/2026,,,,3/7/2018,0,0
+80008,70008,8204756,Vantage Point Capital INC,Retail & Digital Banking,W992020,frank.garcia@cibc.com,ad\fgarcia,Frank Garcia,5/8/2026,Trust,,,3/8/2018,0,0
+80009,70009,9183746,Redwood Advisory LTD,Private Wealth,W992023,irene.jackson@cibc.com,ad\ijackson,Irene Jackson,5/9/2026,,,,3/9/2018,0,0
+80010,70010,1029384,Crestview Partners LLC,Commercial Banking,W992024,james.kelly@cibc.com,ad\jkelly,James Kelly,5/10/2026,Escrow,,,3/10/2018,0,0
+80011,70011,2847561,Monarch Industries INC,Commercial Real Estate,W992022,henry.irving@cibc.com,ad\hirving,Henry Irving,5/11/2026,,,,3/11/2018,1,0
+80012,70012,3748291,Silverline Group LTD,Private Wealth,W992015,alice.baker@cibc.com,ad\abaker,Alice Baker,5/12/2026,,,,3/12/2018,0,0
+80013,70013,4920183,Titan Wealth Management LLC,Private Wealth,W992010,victoria.wang@cibc.com,ad\vwang,Victoria Wang,5/13/2026,,,,3/13/2018,0,0
+80014,70013,5837264,Cascade Investments INC,Commercial Banking,W992014,zachary.adams@cibc.com,ad\zadams,Zachary Adams,5/14/2026,,,,3/14/2018,0,0
+80015,70014,6291847,Harborview Capital LTD,Commercial Real Estate,W992019,emma.fisher@cibc.com,ad\efisher,Emma Fisher,5/15/2026,Operating,,,3/15/2018,0,0
+80016,70015,7483920,Zenith Consulting LLC,Other,W992017,cynthia.davis@cibc.com,ad\cdavis,Cynthia Davis,5/16/2026,,,,3/16/2018,0,1
+80017,70016,8374619,Meridian Holdings INC,Commercial Banking,W992026,larry.martin@cibc.com,ad\lmartin,Larry Martin,5/17/2026,Payroll,,,3/17/2018,0,0
+80018,70017,9274831,Lakeside Financial LTD,Private Wealth,W992027,mary.nelson@cibc.com,ad\mnelson,Mary Nelson,5/18/2026,,,,3/18/2018,0,0
+80019,70018,1837264,Northstar Enterprises LLC,Commercial Real Estate,W992028,nathan.owens@cibc.com,ad\nowens,Nathan Owens,5/19/2026,,,,3/19/2018,1,0
+80020,70019,2948371,Coastal Dynamics INC,Retail & Digital Banking,W992008,tina.upton@cibc.com,ad\tupton,Tina Upton,5/20/2026,,,,3/20/2018,0,0
+80021,70020,3847291,Summit Ridge Capital LTD,Commercial Banking,W992029,olivia.parker@cibc.com,ad\oparker,Olivia Parker,5/21/2026,Trust,,,3/21/2018,0,0
+80022,70021,4738291,Falcon Asset Management LLC,Private Wealth,W992025,karen.lewis@cibc.com,ad\klewis,Karen Lewis,5/22/2026,,,,3/22/2018,0,0
+80023,70022,5920183,Grandview Investments INC,Commercial Real Estate,W992030,peter.quinn@cibc.com,ad\pquinn2,Peter Quinn,5/23/2026,Escrow,,,3/23/2018,0,0
+80024,70023,6847392,Clearwater Holdings LTD,Commercial Banking,W992031,rosa.santos@cibc.com,ad\rsantos,Rosa Santos,5/24/2026,,,,3/24/2018,0,0
+80025,70023,7293847,Ironwood Partners LLC,Other,W992032,steven.turner@cibc.com,ad\sturner,Steven Turner,5/25/2026,,,,3/25/2018,0,0
+80026,70024,8374920,Pacific Crest Capital INC,Commercial Banking,W992033,tracy.underwood@cibc.com,ad\tunderwood,Tracy Underwood,5/26/2026,,,,3/26/2018,0,1
+80027,70025,9483726,Westfield Advisory LTD,Private Wealth,W992034,victor.valdez@cibc.com,ad\vvaldez,Victor Valdez,5/27/2026,,,,3/27/2018,0,0
+80028,70026,1293847,Bridgepoint Enterprises LLC,Commercial Real Estate,W992035,wendy.white@cibc.com,ad\wwhite,Wendy White,5/28/2026,Operating,,,3/28/2018,0,0
+80029,70027,2748391,Keystone Financial INC,Commercial Banking,W992036,xavier.yang@cibc.com,ad\xyang,Xavier Yang,5/29/2026,,,,3/29/2018,1,0
+80030,70028,3920847,Riverview Holdings LTD,Retail & Digital Banking,W992037,yvette.zimmerman@cibc.com,ad\yzimmerman,Yvette Zimmerman,5/30/2026,Payroll,,,3/30/2018,0,0
+80031,70029,4837261,Highmark Capital LLC,Private Wealth,W992038,aaron.brooks@cibc.com,ad\abrooks,Aaron Brooks,5/31/2026,,,,3/31/2018,0,0
+80032,70030,5748392,Cornerstone Ventures INC,Commercial Banking,W992039,betty.campbell@cibc.com,ad\bcampbell,Betty Campbell,5/1/2026,,,,4/1/2018,0,0
+80033,70031,6293847,Bluewater Group LTD,Commercial Real Estate,W992040,charles.douglas@cibc.com,ad\cdouglas,Charles Douglas,5/2/2026,,,,4/2/2018,0,1
+80034,70032,7483921,Crestwood Partners LLC,Private Wealth,W992041,debra.ellis@cibc.com,ad\dellis,Debra Ellis,5/3/2026,Trust,,,4/3/2018,0,0
+80035,70033,8374291,Oakridge Investments INC,Commercial Banking,W992042,eric.ford@cibc.com,ad\eford,Eric Ford,5/4/2026,,,,4/4/2018,0,0
+80036,70033,9283746,Silverstone Holdings LTD,Other,W992043,frances.green@cibc.com,ad\fgreen,Frances Green,5/5/2026,,,,4/5/2018,0,0
+80037,70034,1748392,Greenfield Capital LLC,Commercial Real Estate,W992044,gary.hamilton@cibc.com,ad\ghamilton,Gary Hamilton,5/6/2026,Escrow,,,4/6/2018,0,0
+80038,70035,2839471,Northgate Enterprises INC,Commercial Banking,W992045,helen.ingram@cibc.com,ad\hingram,Helen Ingram,5/7/2026,,,,4/7/2018,1,0
+80039,70036,3748920,Lakeview Advisory LTD,Private Wealth,W992046,ian.jenkins@cibc.com,ad\ijenkins,Ian Jenkins,5/8/2026,,,,4/8/2018,0,0
+80040,70037,4920371,Redstone Partners LLC,Commercial Banking,W992047,janet.king@cibc.com,ad\jking,Janet King,5/9/2026,,,,4/9/2018,0,0
+80041,70038,5837492,Horizon Peak Capital INC,Commercial Real Estate,W992048,keith.lawson@cibc.com,ad\klawson,Keith Lawson,5/10/2026,Operating,,,4/10/2018,0,1
+80042,70039,6748391,Westbrook Holdings LTD,Retail & Digital Banking,W992049,lisa.mitchell@cibc.com,ad\lmitchell,Lisa Mitchell,5/11/2026,,,,4/11/2018,0,0
+80043,70040,7293841,Maple Leaf Ventures LLC,Commercial Banking,W992050,mark.newman@cibc.com,ad\mnewman,Mark Newman,5/12/2026,Payroll,,,4/12/2018,0,0
+80044,70041,8374926,Goldcrest Financial INC,Private Wealth,W992051,nina.olson@cibc.com,ad\nolson,Nina Olson,5/13/2026,,,,4/13/2018,0,0
+80045,70042,9283741,Ironbridge Group LTD,Commercial Real Estate,W992052,oliver.price@cibc.com,ad\oprice,Oliver Price,5/14/2026,,,,4/14/2018,0,0
+80046,70043,1839274,Clearfield Capital LLC,Commercial Banking,W992053,paula.quinn@cibc.com,ad\pquinn3,Paula Quinn,5/15/2026,,,,4/15/2018,0,0
+80047,70044,2748293,Sunridge Investments INC,Other,W992054,raymond.ross@cibc.com,ad\rross,Raymond Ross,5/16/2026,Trust,,,4/16/2018,1,0
+80048,70045,3920748,Eastwood Holdings LTD,Private Wealth,W992055,sandra.stone@cibc.com,ad\sstone,Sandra Stone,5/17/2026,,,,4/17/2018,0,0
+80049,70045,4837294,Whitestone Partners LLC,Commercial Banking,W992056,thomas.tucker@cibc.com,ad\ttucker,Thomas Tucker,5/18/2026,,,,4/18/2018,0,0
+80050,70046,5748293,Broadview Capital INC,Commercial Real Estate,W992057,ursula.underwood@cibc.com,ad\uunderwood,Ursula Underwood,5/19/2026,Escrow,,,4/19/2018,0,0
+80051,70047,6293748,Harborlight Group LTD,Private Wealth,W992058,vincent.vance@cibc.com,ad\vvance,Vincent Vance,5/20/2026,,,,4/20/2018,0,1
+80052,70048,7483926,Ridgeline Enterprises LLC,Commercial Banking,W992059,wanda.walker@cibc.com,ad\wwalker,Wanda Walker,5/21/2026,,,,4/21/2018,0,0
+80053,70049,8374293,Stonewall Financial INC,Retail & Digital Banking,W992060,xavier.xavier@cibc.com,ad\xxavier,Xavier Xavier,5/22/2026,,,,4/22/2018,0,0
+80054,70050,9283748,Bluestone Holdings LTD,Commercial Real Estate,W992061,yolanda.york@cibc.com,ad\yyork,Yolanda York,5/23/2026,Operating,,,4/23/2018,0,0
+80055,70051,1748293,Greenstone Capital LLC,Private Wealth,W992062,zane.zimmerman@cibc.com,ad\zzimmerman,Zane Zimmerman,5/24/2026,,,,4/24/2018,1,0
+80056,70052,2839274,Northbrook Ventures INC,Commercial Banking,W992063,amy.anderson@cibc.com,ad\aanderson,Amy Anderson,5/25/2026,Payroll,,,4/25/2018,0,0
+80057,70053,3748293,Lakewood Advisory LTD,Commercial Real Estate,W992064,bob.brown@cibc.com,ad\bbrown,Bob Brown,5/26/2026,,,,4/26/2018,0,0
+80058,70054,4920374,Redfield Partners LLC,Other,W992065,carol.carter@cibc.com,ad\ccarter,Carol Carter,5/27/2026,,,,4/27/2018,0,0
+80059,70055,5837294,Summit Capital Group INC,Commercial Banking,W992066,dan.davis@cibc.com,ad\ddavis,Dan Davis,5/28/2026,,,,4/28/2018,0,1
+80060,70056,6748293,Westgate Holdings LTD,Private Wealth,W992067,eve.edwards@cibc.com,ad\eedwards,Eve Edwards,5/29/2026,Trust,,,4/29/2018,0,0
+80061,70057,7293748,Maplewood Enterprises LLC,Commercial Real Estate,W992068,fred.foster@cibc.com,ad\ffoster,Fred Foster,5/30/2026,,,,4/30/2018,0,0
+80062,70058,8374293,Goldfield Financial INC,Commercial Banking,W992069,gina.garcia@cibc.com,ad\ggarcia,Gina Garcia,5/31/2026,Escrow,,,5/1/2018,0,0
+80063,70059,9283748,Ironstone Group LTD,Retail & Digital Banking,W992070,hank.harris@cibc.com,ad\hharris,Hank Harris,5/1/2026,,,,5/2/2018,0,0
+80064,70059,1839274,Clearstone Capital LLC,Private Wealth,W992071,ivy.irwin@cibc.com,ad\iirwin,Ivy Irwin,5/2/2026,,,,5/3/2018,0,0
+80065,70060,2748293,Sunfield Investments INC,Commercial Banking,W992072,jack.jones@cibc.com,ad\jjones,Jack Jones,5/3/2026,,,,5/4/2018,1,0
+80066,70061,3920748,Eastgate Holdings LTD,Commercial Real Estate,W992073,kate.king@cibc.com,ad\kking,Kate King,5/4/2026,,,,5/5/2018,0,0
+80067,70062,4837294,Whitefield Partners LLC,Commercial Banking,W992074,leo.lewis@cibc.com,ad\llewis,Leo Lewis,5/5/2026,Operating,,,5/6/2018,0,0
+80068,70063,5748293,Broadstone Capital INC,Private Wealth,W992075,mia.martin@cibc.com,ad\mmartin,Mia Martin,5/6/2026,,,,5/7/2018,0,1
+80069,70064,6293748,Harborstone Group LTD,Other,W992076,ned.nelson@cibc.com,ad\nnelson,Ned Nelson,5/7/2026,Payroll,,,5/8/2018,0,0
+80070,70065,7483926,Ridgewood Enterprises LLC,Commercial Banking,W992077,ora.owens@cibc.com,ad\oowens,Ora Owens,5/8/2026,,,,5/9/2018,0,0
+80071,70066,8374293,Stonefield Financial INC,Commercial Real Estate,W992078,pat.parker@cibc.com,ad\pparker,Pat Parker,5/9/2026,,,,5/10/2018,0,0
+80072,70067,9283748,Bluefield Holdings LTD,Private Wealth,W992079,quinn.quinn@cibc.com,ad\qquinn,Quinn Quinn,5/10/2026,,,,5/11/2018,0,0
+80073,70068,1748293,Greenridge Capital LLC,Commercial Banking,W992080,ray.roberts@cibc.com,ad\rroberts,Ray Roberts,5/11/2026,Trust,,,5/12/2018,1,0
+80074,70069,2839274,Northfield Ventures INC,Retail & Digital Banking,W992081,sue.smith@cibc.com,ad\ssmith,Sue Smith,5/12/2026,,,,5/13/2018,0,0
+80075,70070,3748293,Lakefield Advisory LTD,Commercial Real Estate,W992082,tom.taylor@cibc.com,ad\ttaylor,Tom Taylor,5/13/2026,Escrow,,,5/14/2018,0,0
+80076,70071,4920374,Redridge Partners LLC,Commercial Banking,W992083,uma.underwood@cibc.com,ad\uunderwood2,Uma Underwood,5/14/2026,,,,5/15/2018,0,1
+80077,70072,5837294,Summit Ridge Group INC,Private Wealth,W992084,vic.vega@cibc.com,ad\vvega,Vic Vega,5/15/2026,,,,5/16/2018,0,0
+80078,70073,6748293,Westfield Holdings LTD,Commercial Real Estate,W992085,wes.white@cibc.com,ad\wwhite2,Wes White,5/16/2026,,,,5/17/2018,0,0
+80079,70073,7293748,Maplefield Enterprises LLC,Commercial Banking,W992086,xander.xu@cibc.com,ad\xxu,Xander Xu,5/17/2026,,,,5/18/2018,0,0
+80080,70074,8374293,Goldridge Financial INC,Other,W992087,yara.young@cibc.com,ad\yyoung,Yara Young,5/18/2026,Operating,,,5/19/2018,0,0
+80081,70075,9283748,Ironfield Group LTD,Private Wealth,W992088,zack.zhang@cibc.com,ad\zzhang,Zack Zhang,5/19/2026,,,,5/20/2018,1,0
+80082,70076,1839274,Clearridge Capital LLC,Commercial Banking,W992089,anna.allen@cibc.com,ad\aallen,Anna Allen,5/20/2026,Payroll,,,5/21/2018,0,0
+80083,70077,2748293,Sunstone Investments INC,Commercial Real Estate,W992090,ben.baker@cibc.com,ad\bbaker,Ben Baker,5/21/2026,,,,5/22/2018,0,0
+80084,70078,3920748,Eastfield Holdings LTD,Retail & Digital Banking,W992091,clara.clark@cibc.com,ad\cclark,Clara Clark,5/22/2026,,,,5/23/2018,0,0
+80085,70079,4837294,Whitestone Partners INC,Commercial Banking,W992092,dean.davis@cibc.com,ad\ddavis2,Dean Davis,5/23/2026,,,,5/24/2018,0,1
+80086,70080,5748293,Broadfield Capital LLC,Private Wealth,W992093,ella.evans@cibc.com,ad\eevans,Ella Evans,5/24/2026,Trust,,,5/25/2018,0,0
+80087,70081,6293748,Harborfield Group LTD,Commercial Real Estate,W992094,finn.foster@cibc.com,ad\ffoster2,Finn Foster,5/25/2026,,,,5/26/2018,0,0
+80088,70082,7483926,Ridgefield Enterprises INC,Commercial Banking,W992095,gwen.garcia@cibc.com,ad\ggarcia2,Gwen Garcia,5/26/2026,Escrow,,,5/27/2018,0,0
+80089,70083,8374293,Stonegate Financial LLC,Other,W992096,hugo.harris@cibc.com,ad\hharris2,Hugo Harris,5/27/2026,,,,5/28/2018,0,0
+80090,70084,9283748,Bluegate Holdings LTD,Private Wealth,W992097,iris.irwin@cibc.com,ad\iirwin2,Iris Irwin,5/28/2026,,,,5/29/2018,1,0
+80091,70085,1748293,Greengate Capital INC,Commercial Banking,W992098,jake.jones@cibc.com,ad\jjones2,Jake Jones,5/29/2026,,,,5/30/2018,0,0
+80092,70086,2839274,Northgate Ventures LLC,Commercial Real Estate,W992099,kim.king@cibc.com,ad\kking2,Kim King,5/30/2026,Operating,,,5/31/2018,0,0
+80093,70087,3748293,Lakegate Advisory LTD,Private Wealth,W992100,luke.lewis@cibc.com,ad\llewis2,Luke Lewis,5/31/2026,,,,6/1/2018,0,1
+80094,70088,4920374,Redgate Partners INC,Commercial Banking,W992101,maya.martin@cibc.com,ad\mmartin2,Maya Martin,5/1/2026,Payroll,,,6/2/2018,0,0
+80095,70089,5837294,Summit Gate Group LLC,Retail & Digital Banking,W992102,nick.nelson@cibc.com,ad\nnelson2,Nick Nelson,5/2/2026,,,,6/3/2018,0,0
+80096,70089,6748293,Westgate Capital LTD,Commercial Real Estate,W992103,olive.owens@cibc.com,ad\oowens2,Olive Owens,5/3/2026,,,,6/4/2018,0,0
+80097,70090,7293748,Maplegate Enterprises INC,Commercial Banking,W992104,paul.parker@cibc.com,ad\pparker2,Paul Parker,5/4/2026,,,,6/5/2018,0,0
+80098,70091,8374293,Goldgate Financial LLC,Private Wealth,W992105,quinn.quinn2@cibc.com,ad\qquinn2,Quinn Quinn Jr,5/5/2026,,,,6/6/2018,0,0
+80099,70092,9283748,Irongate Group LTD,Commercial Real Estate,W992106,rick.roberts@cibc.com,ad\rroberts2,Rick Roberts,5/6/2026,Trust,,,6/7/2018,1,0
+80100,70093,1839274,Cleargate Capital INC,Other,W992107,sara.smith@cibc.com,ad\ssmith2,Sara Smith,5/7/2026,,,,6/8/2018,0,0
+80101,70094,2748293,Sungate Investments LLC,Commercial Banking,W992108,ted.taylor@cibc.com,ad\ttaylor2,Ted Taylor,5/8/2026,Escrow,,,6/9/2018,0,0
+80102,70095,3920748,Eastgate Capital LTD,Private Wealth,W992109,una.underwood@cibc.com,ad\uunderwood3,Una Underwood,5/9/2026,,,,6/10/2018,0,1
+80103,70096,4837294,Whitegate Partners INC,Commercial Real Estate,W992110,vince.vega@cibc.com,ad\vvega2,Vince Vega,5/10/2026,,,,6/11/2018,0,0
+80104,70097,5748293,Broadgate Capital LLC,Commercial Banking,W992111,walt.white@cibc.com,ad\wwhite3,Walt White,5/11/2026,,,,6/12/2018,0,0
+80105,70098,6293748,Harborgate Group LTD,Private Wealth,W992112,xena.xu@cibc.com,ad\xxu2,Xena Xu,5/12/2026,Operating,,,6/13/2018,0,0
+80106,70099,7483926,Ridgegate Enterprises INC,Commercial Real Estate,W992113,yuri.young@cibc.com,ad\yyoung2,Yuri Young,5/13/2026,,,,6/14/2018,1,0
+80107,70100,8374293,Stonegate Capital LLC,Commercial Banking,W992114,zara.zhang@cibc.com,ad\zzhang2,Zara Zhang,5/14/2026,Payroll,,,6/15/2018,0,0
+80108,70101,9283748,Bluegate Financial LTD,Retail & Digital Banking,W992115,adam.allen@cibc.com,ad\aallen2,Adam Allen,5/15/2026,,,,6/16/2018,0,0
+80109,70102,1748293,Greengate Holdings INC,Private Wealth,W992116,bella.baker@cibc.com,ad\bbaker2,Bella Baker,5/16/2026,,,,6/17/2018,0,0
+80110,70103,1152837,Crestfall Advisors LLC,Commercial Banking,W992001,michael.nash@cibc.com,ad\mnash,Michael Nash,5/17/2026,,,,6/18/2018,0,1
+80111,70103,2253948,Pinnacle Ridge INC,Private Wealth,W992009,ulysses.vega@cibc.com,ad\uvega,Ulysses Vega,5/18/2026,,,,6/19/2018,0,0
+80112,70104,3354819,Ironclad Capital LTD,Commercial Real Estate,W992018,derek.edwards@cibc.com,ad\dedwards,Derek Edwards,5/19/2026,Trust,,,6/20/2018,0,0
+80113,70105,4455920,Vantage Wealth LLC,Retail & Digital Banking,W992008,tina.upton@cibc.com,ad\tupton,Tina Upton,5/20/2026,,,,6/21/2018,0,0
+80114,70106,5556831,Apex Ridge Partners INC,Commercial Banking,W992014,zachary.adams@cibc.com,ad\zadams,Zachary Adams,5/21/2026,Escrow,,,6/22/2018,0,0
+80115,70107,6657942,BlueSky Holdings LTD,Private Wealth,W992025,karen.lewis@cibc.com,ad\klewis,Karen Lewis,5/22/2026,,,,6/23/2018,1,0
+80116,70108,7758053,Northcrest Ventures LLC,Commercial Real Estate,W992035,wendy.white@cibc.com,ad\wwhite,Wendy White,5/23/2026,,,,6/24/2018,0,0
+80117,70109,8859164,Silvergate Financial INC,Commercial Banking,W992039,betty.campbell@cibc.com,ad\bcampbell,Betty Campbell,5/24/2026,,,,6/25/2018,0,0
+80118,70110,9960275,Redfield Advisory LTD,Other,W992043,frances.green@cibc.com,ad\fgreen,Frances Green,5/25/2026,Operating,,,6/26/2018,0,1
+80119,70111,1061386,Lakecrest Capital LLC,Private Wealth,W992051,nina.olson@cibc.com,ad\nolson,Nina Olson,5/26/2026,,,,6/27/2018,0,0
+80120,70112,2162497,Weststone Holdings INC,Commercial Banking,W992056,thomas.tucker@cibc.com,ad\ttucker,Thomas Tucker,5/27/2026,Payroll,,,6/28/2018,0,0
+80121,70113,3263508,Eastbrook Ventures LTD,Commercial Real Estate,W992040,charles.douglas@cibc.com,ad\cdouglas,Charles Douglas,5/28/2026,,,,6/29/2018,0,0
+80122,70114,4364619,Goldstone Partners LLC,Private Wealth,W992062,zane.zimmerman@cibc.com,ad\zzimmerman,Zane Zimmerman,5/29/2026,,,,6/30/2018,0,0
+80123,70115,5465720,Ironridge Capital INC,Commercial Banking,W992066,dan.davis@cibc.com,ad\ddavis,Dan Davis,5/30/2026,,,,7/1/2018,1,0
+80124,70116,6566831,Clearbrook Holdings LTD,Commercial Real Estate,W992073,kate.king@cibc.com,ad\kking,Kate King,5/31/2026,Trust,,,7/2/2018,0,0
+80125,70117,7667942,Sunstone Ventures LLC,Retail & Digital Banking,W992081,sue.smith@cibc.com,ad\ssmith,Sue Smith,5/1/2026,,,,7/3/2018,0,0
+80126,70117,8768053,Ridgecrest Financial INC,Commercial Banking,W992086,xander.xu@cibc.com,ad\xxu,Xander Xu,5/2/2026,,,,7/4/2018,0,0
+80127,70118,9869164,Maplecrest Advisory LTD,Private Wealth,W992084,vic.vega@cibc.com,ad\vvega,Vic Vega,5/3/2026,Escrow,,,7/5/2018,0,1
+80128,70119,1970275,Northstone Enterprises LLC,Commercial Real Estate,W992090,ben.baker@cibc.com,ad\bbaker,Ben Baker,5/4/2026,,,,7/6/2018,0,0
+80129,70120,2071386,Westridge Capital INC,Other,W992096,hugo.harris@cibc.com,ad\hharris2,Hugo Harris,5/5/2026,,,,7/7/2018,0,0
+80130,70121,3172497,Eaststone Holdings LTD,Commercial Banking,W992101,maya.martin@cibc.com,ad\mmartin2,Maya Martin,5/6/2026,,,,7/8/2018,0,0
+80131,70122,4273508,Goldbrook Ventures LLC,Private Wealth,W992105,quinn.quinn2@cibc.com,ad\qquinn2,Quinn Quinn Jr,5/7/2026,Operating,,,7/9/2018,1,0
+80132,70123,5374619,Ironbrook Capital INC,Commercial Real Estate,W992110,vince.vega@cibc.com,ad\vvega2,Vince Vega,5/8/2026,,,,7/10/2018,0,0
+80133,70124,6475720,Clearstone Ventures LTD,Commercial Banking,W992114,zara.zhang@cibc.com,ad\zzhang2,Zara Zhang,5/9/2026,Payroll,,,7/11/2018,0,0
+80134,70125,7576831,Sunbrook Holdings LLC,Private Wealth,W992116,bella.baker@cibc.com,ad\bbaker2,Bella Baker,5/10/2026,,,,7/12/2018,0,1
+80135,70126,8677942,Ridgestone Financial INC,Commercial Real Estate,W992003,oscar.patel@cibc.com,ad\opatel,Oscar Patel,5/11/2026,,,,7/13/2018,0,0
+80136,70127,9778053,Maplestone Advisory LTD,Commercial Banking,W992007,samuel.taylor@cibc.com,ad\staylor,Samuel Taylor,5/12/2026,,,,7/14/2018,0,0
+80137,70128,1879164,Northbrook Capital LLC,Retail & Digital Banking,W992020,frank.garcia@cibc.com,ad\fgarcia,Frank Garcia,5/13/2026,Trust,,,7/15/2018,0,0
+80138,70129,2980275,Westbrook Ventures INC,Private Wealth,W992013,yolanda.zhang@cibc.com,ad\yzhang,Yolanda Zhang,5/14/2026,,,,7/16/2018,0,0
+80139,70130,3081386,Eastbrook Capital LTD,Commercial Banking,W992024,james.kelly@cibc.com,ad\jkelly,James Kelly,5/15/2026,Escrow,,,7/17/2018,1,0
+80140,70131,4182497,Goldenbrook Holdings LLC,Commercial Real Estate,W992022,henry.irving@cibc.com,ad\hirving,Henry Irving,5/16/2026,,,,7/18/2018,0,0
+80141,70131,5283508,Ironbrook Holdings INC,Private Wealth,W992015,alice.baker@cibc.com,ad\abaker,Alice Baker,5/17/2026,,,,7/19/2018,0,0
+80142,70132,6384619,Clearbrook Capital LTD,Other,W992032,steven.turner@cibc.com,ad\sturner,Steven Turner,5/18/2026,,,,7/20/2018,0,
