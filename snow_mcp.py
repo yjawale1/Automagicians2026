@@ -32,6 +32,32 @@ class SnowRequest(BaseModel):
     access_items: List[str]
     project: Optional[str] = None
 
+def get_ticket_status(ticket_number: str):
+    """Fetch ticket status from ServiceNow by ticket number"""
+    url = f"{SNOW_INSTANCE.rstrip('/')}/api/now/table/sc_request?sysparm_query=number={ticket_number}"
+    headers = {"Accept": "application/json"}
+    resp = requests.get(url, headers=headers, auth=HTTPBasicAuth(SNOW_USER, SNOW_PASS), timeout=15)
+    try:
+        data = resp.json()
+    except ValueError:
+        resp.raise_for_status()
+    if not resp.ok:
+        raise Exception(f"SNOW API error {resp.status_code}: {data}")
+    results = data.get("result", [])
+    if not results:
+        raise Exception(f"Ticket not found: {ticket_number}")
+    record = results[0]
+    return {
+        "number": record.get("number"),
+        "state": record.get("state"),
+        "status": record.get("status"),
+        "short_description": record.get("short_description"),
+        "approval_state": record.get("approval_state"),
+        "assigned_to": record.get("assigned_to", {}).get("display_value"),
+        "created_on": record.get("sys_created_on"),
+        "updated_on": record.get("sys_updated_on"),
+    }
+
 def create_snow_record(table: str, payload: dict):
     url = f"{SNOW_INSTANCE.rstrip('/')}/api/now/table/{table}"
     headers = {"Accept": "application/json", "Content-Type": "application/json"}
@@ -91,6 +117,17 @@ def handle_jsonrpc(body: Dict[str, Any]) -> Dict[str, Any]:
                             },
                             "required": ["user_name", "justification", "access_items"]
                         }
+                    },
+                    {
+                        "name": "get_ticket_status",
+                        "description": "Get status of a ServiceNow ticket by number",
+                        "inputSchema": {
+                            "type": "object",
+                            "properties": {
+                                "ticket_number": {"type": "string", "description": "ServiceNow ticket number"}
+                            },
+                            "required": ["ticket_number"]
+                        }
                     }
                 ]
             }
@@ -125,6 +162,17 @@ def handle_jsonrpc(body: Dict[str, Any]) -> Dict[str, Any]:
                         {
                             "type": "text",
                             "text": f"Created {len(results)} ServiceNow requests: {', '.join([r['ref'] for r in results])}"
+                        }
+                    ]
+                }
+            elif tool_name == "get_ticket_status":
+                ticket_number = tool_input.get("ticket_number")
+                status_record = get_ticket_status(ticket_number)
+                result = {
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": f"Ticket {status_record['number']}: {status_record['status']} (State: {status_record['state']}, Approval: {status_record['approval_state']})"
                         }
                     ]
                 }
